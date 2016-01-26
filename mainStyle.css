@@ -45,7 +45,7 @@
   font-family: 'Berkshire Swash', cursive;
   background-image: url(http://res.cloudinary.com/dkrtlzlcwghxm/image/upload/v1453691674/dock_image_rn8beo.jpg);
   background-size: cover;
-  min-height: 1200px;
+  min-height: 800px;
   background-attachment: fixed;
 }
 
@@ -61,4 +61,53 @@
   line-height: 1.9em;
   font-family: 'Lora', serif;
   color: #FFF;
+}
+
+.projectTitle {
+  padding: 0px 15px;
+  margin-bottom: 55px;
+  color: #26adad;
+}
+
+.imageLists img{
+  height: 150px;
+  width: 150px;
+}
+
+
+.thumbnailLists {
+  display: block;
+  padding: 4px;
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+}
+
+.btn-info {
+  height: 60px;
+  margin-left: 50px;
+}
+
+.btn-info a {
+  color: #000;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.btn-info a:hover {
+  color: white;
+  transition: 0.43s;
+  text-decoration: none;
+}
+
+.git {
+  color: black;
+}
+
+.contactLists {
+  margin-left: 15%;
 }
