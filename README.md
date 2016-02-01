@@ -1,1 +1,3 @@
-Currently working on portfolio site using Github after transferred from CodePen
+Portfolio site with Github host after transferred from CodePen (currently working)
+
+Link: http://salvero.github.io/portfolio-web
